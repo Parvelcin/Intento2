@@ -28,7 +28,7 @@
 
 #en1{
 		list-style-position: inside;
-		list-style-image: url("C:/xampp/htdocs/ExamenMamalon/assets/Imagenes/facebook3.png");
+		list-style-image: url("../Imagenes/facebook3.png");
 		border-top: solid;
 		border-top-color: rgb(22,160,133);
 		margin-top: 40px;
@@ -36,20 +36,20 @@
 }
 
 #en1:hover{
-		list-style-image: url("C:/xampp/htdocs/ExamenMamalon/assets/Imagenes/facebook4.png");
+		list-style-image: url("../Imagenes/facebook4.png");
 		border-top-color: rgb(47,66,84);
 }
 
 #en2{
 		list-style-position: inside;
-		list-style-image: url("C:/xampp/htdocs/ExamenMamalon/assets/Imagenes/twitterprueba.png");
+		list-style-image: url("../Imagenes/twitterprueba.png");
 		border-top: solid;
 		border-top-color: rgb(22,160,133);
 		margin-top: 40px;
 }
 
 #en2:hover{
-		list-style-image: url("C:/xampp/htdocs/ExamenMamalon/assets/Imagenes/twitterprueba2.png");
+		list-style-image: url("../Imagenes/twitterprueba2.png");
 		border-top-color: rgb(47,66,84);
 }
 
@@ -67,27 +67,27 @@
 
 #en4{
 		list-style-position: inside;
-		list-style-image: url("C:/xampp/htdocs/ExamenMamalon/assets/Imagenes/google-plus.png");
+		list-style-image: url("../Imagenes/google-plus.png");
 		border-top: solid;
 		border-top-color: rgb(22,160,133);
 		margin-top: 40px;
 }
 
 #en4:hover{
-		list-style-image: url("C:/xampp/htdocs/ExamenMamalon/assets/Imagenes/google-plus2.png");
+		list-style-image: url("../Imagenes/google-plus2.png");
 		border-top-color: rgb(47,66,84);
 }
 
 #en5{
 		list-style-position: inside;
-		list-style-image: url("C:/xampp/htdocs/ExamenMamalon/assets/Imagenes/linkedin.png");
+		list-style-image: url("../Imagenes/linkedin.png");
 		border-top: solid;
 		border-top-color: rgb(22,160,133);
 		margin-top: 40px;
 }
 
 #en5:hover{
-		list-style-image: url("C:/xampp/htdocs/ExamenMamalon/assets/Imagenes/linkedin2.png");
+		list-style-image: url("../Imagenes/linkedin2.png");
 		border-top-color: rgb(47,66,84);
 }
 
@@ -486,13 +486,13 @@
 }
 
 #catli2{
-		list-style-image: url("C:/xampp/htdocs/ExamenMamalon/assets/Imagenes/ok2.png");
+		list-style-image: url("../Imagenes/ok2.png");
 		list-style-position: inside;
 		margin-bottom: 10px;
 }
 
 #catli3{
-		list-style-image: url("C:/xampp/htdocs/ExamenMamalon/assets/Imagenes/nok.png");
+		list-style-image: url("../Imagenes/nok.png");
 		list-style-position: inside;
 		margin-bottom: 10px;
 }
